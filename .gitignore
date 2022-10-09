@@ -41,7 +41,7 @@ app/public/styles/*.css
 /venv*
 .vscode/
 
-# .env.local files should only be used for variables that should not be committed such as secrets.
+# .env.local.local files should only be used for variables that should not be committed such as secrets.
 .env.local
 *.py[cod]
 .activate.sh
@@ -68,5 +68,5 @@ tests/unit/.cache/
 nosetests.xml
 karma-test-results.xml
 
-# .env.local files should only be used for variables that should not be committed such as secrets.
+# .env.local.local files should only be used for variables that should not be committed such as secrets.
 .env.local
